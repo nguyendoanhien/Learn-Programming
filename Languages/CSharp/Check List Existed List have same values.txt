@@ -1,0 +1,6 @@
+private static bool CheckExistSetInCollection(List<string> set)
+        {
+            set.Sort();
+            bool kq = violateSetCollections.Any(n => n.SequenceEqual(set));
+            return kq;
+        }

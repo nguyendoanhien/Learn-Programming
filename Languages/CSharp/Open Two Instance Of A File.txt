@@ -1,0 +1,7 @@
+Here's how to do it ...
+
+Select the tab you want two copies of
+
+Select Window > New Window from the menu.
+
+Right click the new tab and select New Vertical Tab Group

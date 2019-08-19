@@ -1,0 +1,36 @@
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\SampleTests.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\SampleTests.pdb
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Sample.exe
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Sample.pdb
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Sample.exe.config
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\obj\Debug\SampleTests.csprojAssemblyReference.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\obj\Debug\SampleTests.csproj.CoreCompileInputs.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\obj\Debug\SampleTests.csproj.CopyComplete
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\obj\Debug\SampleTests.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\SampleTests\obj\Debug\SampleTests.pdb
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\SampleTests\obj\Debug\SampleTests.dll
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\SampleTests\obj\Debug\SampleTests.pdb
+D:\Hien\Study\C#\HienRepos\SampleTests\obj\Debug\SampleTests.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\obj\Debug\SampleTests.pdb
+D:\Hien\Study\C#\HienRepos\SampleTests\obj\Debug\SampleTests.csprojAssemblyReference.cache
+D:\Hien\Study\C#\HienRepos\SampleTests\obj\Debug\SampleTests.csproj.CoreCompileInputs.cache
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\SampleTests.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\SampleTests.pdb
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Sample.exe
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Sample.pdb
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Sample.exe.config
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Hien\Study\C#\HienRepos\SampleTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Hien\Study\C#\HienRepos\SampleTests\obj\Debug\SampleTests.csproj.CopyComplete

@@ -1,0 +1,18 @@
+  	 
+
+
+public void Sort(Func<Work,Work, int> callback)
+        {
+            Comparison<Work> comparison = new Comparison<Work>(callback);
+            listWork.Sort(comparison);
+        }
+
+        public static int CompareByTime(Work a, Work b)
+        {
+            return b.Time.CompareTo(a.Time);
+        }
+
+
+
+
+ workList.Sort(WorkList.CompareByTime);

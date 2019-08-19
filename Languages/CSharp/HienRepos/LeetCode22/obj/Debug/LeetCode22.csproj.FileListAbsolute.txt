@@ -1,0 +1,7 @@
+D:\Hien\Study\C#\HienRepos\LeetCode22\bin\Debug\LeetCode22.exe.config
+D:\Hien\Study\C#\HienRepos\LeetCode22\bin\Debug\LeetCode22.exe
+D:\Hien\Study\C#\HienRepos\LeetCode22\bin\Debug\LeetCode22.pdb
+D:\Hien\Study\C#\HienRepos\LeetCode22\obj\Debug\LeetCode22.csprojAssemblyReference.cache
+D:\Hien\Study\C#\HienRepos\LeetCode22\obj\Debug\LeetCode22.csproj.CoreCompileInputs.cache
+D:\Hien\Study\C#\HienRepos\LeetCode22\obj\Debug\LeetCode22.exe
+D:\Hien\Study\C#\HienRepos\LeetCode22\obj\Debug\LeetCode22.pdb

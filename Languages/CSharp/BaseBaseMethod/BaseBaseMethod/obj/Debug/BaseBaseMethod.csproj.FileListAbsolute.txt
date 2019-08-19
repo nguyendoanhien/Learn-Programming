@@ -1,0 +1,7 @@
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\bin\Debug\BaseBaseMethod.exe.config
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\bin\Debug\BaseBaseMethod.exe
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\bin\Debug\BaseBaseMethod.pdb
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\obj\Debug\BaseBaseMethod.csprojAssemblyReference.cache
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\obj\Debug\BaseBaseMethod.csproj.CoreCompileInputs.cache
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\obj\Debug\BaseBaseMethod.exe
+D:\Hiện\Study\C#\BaseBaseMethod\BaseBaseMethod\obj\Debug\BaseBaseMethod.pdb

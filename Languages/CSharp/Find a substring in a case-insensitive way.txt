@@ -1,0 +1,2 @@
+string s = "foobarbaz";
+int index = s.IndexOf("BAR", StringComparison.CurrentCultureIgnoreCase); // index = 3

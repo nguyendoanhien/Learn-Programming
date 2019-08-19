@@ -1,0 +1,8 @@
+
+connetionString="Data Source=ServerName;
+Initial Catalog=DatabaseName;User ID=UserName;Password=Password"
+
+------Connecting to SQL Server using windows authentication
+
+"Server= localhost; Database= employeedetails;
+Integrated Security=SSPI(true);"  //Same thing

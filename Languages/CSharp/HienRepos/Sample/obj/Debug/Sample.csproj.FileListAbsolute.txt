@@ -1,0 +1,13 @@
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\bin\Debug\Sample.exe.config
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\bin\Debug\Sample.exe
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\bin\Debug\Sample.pdb
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\obj\Debug\Sample.exe
+D:\Users\jim_m.HIENCOMPUTER\source\repos\Sample\obj\Debug\Sample.pdb
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\bin\Debug\Sample.exe.config
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\bin\Debug\Sample.exe
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\bin\Debug\Sample.pdb
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\obj\Debug\Sample.exe
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\Sample\obj\Debug\Sample.pdb

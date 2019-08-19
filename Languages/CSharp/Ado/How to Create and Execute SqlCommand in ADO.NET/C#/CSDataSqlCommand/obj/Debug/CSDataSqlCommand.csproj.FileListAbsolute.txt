@@ -1,0 +1,7 @@
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\Debug\CSDataSqlCommand.exe.config
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\Debug\CSDataSqlCommand.exe
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\Debug\CSDataSqlCommand.pdb
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\CSDataSqlCommand\obj\Debug\CSDataSqlCommand.csprojAssemblyReference.cache
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\CSDataSqlCommand\obj\Debug\CSDataSqlCommand.csproj.CoreCompileInputs.cache
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\CSDataSqlCommand\obj\Debug\CSDataSqlCommand.exe
+D:\Hiện\Study\ADO\How to Create and Execute SqlCommand in ADO.NET\C#\CSDataSqlCommand\obj\Debug\CSDataSqlCommand.pdb

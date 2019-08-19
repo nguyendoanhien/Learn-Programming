@@ -1,0 +1,2 @@
+string inputDate = [__];
+DateTime dt = Convert.ToDateTime(inputDate);

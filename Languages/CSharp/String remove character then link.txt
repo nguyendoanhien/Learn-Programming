@@ -1,0 +1,6 @@
+
+string s="abc def";
+
+s=s.Replace(" ",string.empty);
+
+=> s = "abcdef"

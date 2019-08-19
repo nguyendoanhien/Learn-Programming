@@ -1,0 +1,4 @@
+private static void RemoveDupplicateValues(ref List<string> set)
+        {
+            set = set.Distinct().ToList();
+        }

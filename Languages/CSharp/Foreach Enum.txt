@@ -1,0 +1,1 @@
+foreach (Suit suit in (Suit[]) Enum.GetValues(typeof(Suit)))

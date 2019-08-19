@@ -1,0 +1,2 @@
+string.Compare(a,b,true) //true: no sensive
+			

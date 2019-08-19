@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Hien\\Study\\C#\\HienRepos\\Unit Test - NUnit\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "D:\\Hien\\Study\\C#\\HienRepos\\Unit Test - NUnit\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hien\\Study\\C#\\HienRepos\\Unit Test - NUnit\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Hien\\Study\\C#\\HienRepos\\Unit Test - NUnit\\ConsoleApp1.csproj",
+        "packagesPath": "D:\\Users\\jim_m.HIENCOMPUTER\\.nuget\\packages\\",
+        "outputPath": "D:\\Hien\\Study\\C#\\HienRepos\\Unit Test - NUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\jim_m.HIENCOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

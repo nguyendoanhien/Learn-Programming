@@ -1,0 +1,6 @@
+ int time = 0;
+                do
+                {
+                    Console.WriteLine($"Nh?p th?i gian cho công vi?c {i + 1}");
+                }
+                while (!int.TryParse(Console.ReadLine(), out time));

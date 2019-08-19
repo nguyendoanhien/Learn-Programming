@@ -1,0 +1,22 @@
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Users\jim_m.HIENCOMPUTER\source\repos\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Hien\Study\C#\HienRepos\Unit Test - NUnit\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
